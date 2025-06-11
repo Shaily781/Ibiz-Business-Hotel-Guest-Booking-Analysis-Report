@@ -14,7 +14,7 @@ Ibiz, a premium business hotel, seeks to enhance guest experience and revenue by
 ### 1. **Frequent Guest Overview Dashboard**
 - Categorizes guests as **Frequent (≥6 bookings)** or **Occasional (<6 bookings)**
 - Shows total booking amount share and average booking amount per group  
-📷 ![Frequent Guest Overview](https://chat.openai.com/mnt/data/b60804fc-713f-4c7a-b1b3-899defe9c109.png)
+📷 ![https://i.postimg.cc/8P86gH6k/Screenshot-2025-06-11-124317.png)
 
 ---
 
