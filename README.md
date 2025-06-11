@@ -1,51 +1,56 @@
-# 🏨 Ibiz Business Hotel – Guest Booking Analysis (April to June 2024)
+# 🏨 Ibiz Hotel Booking Analysis – April to June 2024
 
-## 📌 Objective
-Ibiz, a premium business hotel, seeks to enhance guest experience and revenue by analyzing booking data from April to June 2024. The focus is on identifying:
-- Frequent Guests
-- High-Spending Guests
-- Recently Active Guests
-- VIP Guests
+Ibiz, a business hotel, conducted a data analysis of guest bookings from **April to June 2024** to uncover booking trends and optimize guest services. This project uses guest segmentation and dashboards to drive actionable insights for decision-making.
 
 ---
 
 ## 📊 Dashboards
 
-### 1. **Frequent Guest Overview Dashboard**
-- Categorizes guests as **Frequent (≥6 bookings)** or **Occasional (<6 bookings)**
-- Shows total booking amount share and average booking amount per group  
-📷 ![https://i.postimg.cc/8P86gH6k/Screenshot-2025-06-11-124317.png)
+### 1. Frequent Guest Overview
+**Objective:** Segment guests into:
+- **Frequent Guests:** ≥ 6 bookings
+- **Occasional Guests:** < 6 bookings  
+Analyze their total booking amount share and average spend.
+
+<img src="https://i.postimg.cc/8P86gH6k/Screenshot-2025-06-11-124317.png" width="800">
 
 ---
 
-### 2. **Spending Overview Dashboard**
-- Groups guests into **Top Payers (₹50K+)** and **Budget Guests (<₹50K)**
-- Analyzes each group’s contribution to total revenue and their average spend  
-📷 ![Spending Overview](https://chat.openai.com/mnt/data/97be49ce-5ed9-4b45-979f-57e6d8c67d78.png)
+### 2. Spending Overview
+**Objective:** Classify guests by spend:
+- **Top Payers:** ≥ ₹50,000
+- **Budget Guests:** < ₹50,000  
+Understand spending trends and optimize pricing.
+
+<img src="https://i.postimg.cc/QCR7CgCD/Screenshot-2025-06-11-124334.png" width="800">
 
 ---
 
-### 3. **Recency Dashboard**
-- Divides guests into **Active (last booking ≤15 days)** and **Inactive (>15 days)**
-- Compares total spend share and average booking per guest  
-📷 ![Recency Dashboard](https://chat.openai.com/mnt/data/5beaf1e4-0f97-467c-9493-ef2b5e206111.png)
+### 3. Recency Dashboard
+**Objective:** Segment by activity:
+- **Active Guests:** Booked within last 15 days
+- **Inactive Guests:** Booked more than 15 days ago  
+Understand recent guest behavior and improve targeting.
+
+<img src="https://i.postimg.cc/C1JTwJvZ/Screenshot-2025-06-11-124351.png" width="800">
 
 ---
 
-### 4. **VIP Guest Overview**
-- Identifies **Top 5 VIP Guests** based on frequency, recency, and spend
-- Compares VIPs and Others on:
-  - Bookings per guest  
+### 4. VIP Guest Overview
+**Objective:** Identify Top 5 guests based on frequency, spend, and recency.  
+Compare VIPs vs Others on:
+- Total Booking Amount
+-  Bookings per guest  
   - Avg. spend per guest  
   - Total revenue share  
-📷 ![VIP Guest Overview](https://chat.openai.com/mnt/data/400470d2-5dd5-4bff-a748-3a6e1e04b64d.png)
+<img src="https://i.postimg.cc/65rSKMyB/Screenshot-2025-06-11-124407.png" width="800">
 
 ---
 
 ### 5. **15-Day VIP Activity Snapshot**
 - Compares VIPs vs Others in the last 15 days  
 - Reveals clear trends in booking frequency and spend per guest  
-📷 ![15-Day VIP Comparison](https://chat.openai.com/mnt/data/97b66fc1-2ed2-4706-b0f1-21dfc7fc2497.png)
+<img src="https://i.postimg.cc/0NhrpYDH/Screenshot-2025-06-11-124425.png" width="800">
 
 ---
 
@@ -65,18 +70,3 @@ Ibiz, a premium business hotel, seeks to enhance guest experience and revenue by
 - Use **recency targeting** to bring back inactive guests
 - Monitor and promote emerging high-value guests proactively
 
----
-
-## 📁 Project Files
-
-- Dashboards (Images)
-- Summary Report
-- README.md (this file)
-
----
-
-## 👤 Analyst  
-**Shaily Soni**  
-*Data Analyst | Visual Storyteller*  
-📧 Email: [your email]  
-🔗 LinkedIn: [your LinkedIn URL]  
